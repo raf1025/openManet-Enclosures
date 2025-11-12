@@ -1,0 +1,19 @@
+## Overview
+This enclosure is designed for OpenMANET nodes and integrates a PI4B, internal battery.  
+The chassis acts as a passive heatsink with waterproof ports
+
+## Assembly
+1. Print files 
+2. Mount the PI4B and UPS
+3. Add the Li-ion battery and wiring
+4. add antennas
+5. Seal using waterproof screws and gasket.
+
+## Parts List
+ - Raspberry Pi 4B | 8GB 
+ - Waveshare 3S ups (12v barrel connector, on off button)
+ - 4 SMA to pex Connectors prefered ones with O-rings
+ - CAZN usbc waterproof port 
+ - 1 Lora antenna 915MHZ
+ - 2 wifi antennas 2.4 5 
+ - 1 GPS antenna 
